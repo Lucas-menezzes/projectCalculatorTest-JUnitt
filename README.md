@@ -10,4 +10,4 @@ Apache Maven
 ## Configuração
 Clone o Repositório:
 
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone git@github.com:Lucas-menezzes/projectTestJUnitt.git
